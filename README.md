@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourabh Joshi</h1>
-<h3 align="center">A passionate (MERN) Stack Devloper and a student at LNM IIT</h3>
+<h3 align="center">A passionate Full Stack Devloper and a student at LNM IIT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhjo7&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhjo7" /> </p>
 
