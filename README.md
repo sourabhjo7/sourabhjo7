@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhjo7&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhjo7" /> </p>
 <img align="right" alt="GIF" src="https://github.com/sourabhjo7/sourabhjo7/blob/main/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/sourabh-joshi-0299141b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sourabh-joshi-0299141b9/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourabh-joshi-0299141b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourabh-joshi-0299141b9/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/natsu_dragneelo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="natsu_dragneelo7" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sourabhjo7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sourabhjo7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
